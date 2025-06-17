@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Employee>
+
+
+<div class="row">
+    <div class="col-4">
+        <h3>Employee Info</h3>
+        <table class="table table-bordered table-striped ">
+            <thead class="table-primary">
+                <tr>
+                    <th>Name</th>
+                    <th>Salary</th>
+                </tr>
+            </thead>
+            @foreach (var item in Model)
+            {
+                <tbody>
+                    <tr>
+                        <td>@Html.DisplayFor(i => item.EmployeeName)</td>
+                        <td>@Html.DisplayFor(i => item.Salary)</td>
+                    </tr>
+                </tbody>
+            }
+        </table>
+
+    </div>
+    <div class="col-8">
+        <h3>Aggregation Test</h3>
+        <table class="table table-bordered table-striped ">
+            <thead class="table-warning">
+                <tr>
+                    <th>Employee Serial(Count)</th>
+                    <th>Maximum Salary</th>
+                    <th>Minimum Salary</th>
+                    <th>Total Salary</th>
+                    <th>Average Salary</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>@ViewBag.Count</td>
+                    <td>@ViewBag.Max</td>
+                    <td>@ViewBag.Min</td>
+                    <td>@ViewBag.Sum</td>
+                    <td>@ViewBag.Avg</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
+

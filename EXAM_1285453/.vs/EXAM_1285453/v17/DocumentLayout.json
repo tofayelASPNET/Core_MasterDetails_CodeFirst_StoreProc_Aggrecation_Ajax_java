@@ -1,0 +1,342 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\models\\dbmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\models\\dbmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\controllers\\skillscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\controllers\\candidatescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\migrations\\20250503172853_scripta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\migrations\\20250503172853_scripta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\models\\viewmodels\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\models\\viewmodels\\employeevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\views\\skills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\views\\skills\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\views\\skills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\views\\skills\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\views\\candidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\views\\candidates\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\migrations\\candidatedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\migrations\\candidatedbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\views\\candidates\\aggregation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\views\\candidates\\aggregation.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\views\\skills\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\views\\skills\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\views\\candidates\\_addnewskills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\views\\candidates\\_addnewskills.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\views\\skills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\views\\skills\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\views\\skills\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\views\\skills\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\views\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\views\\candidates\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\views\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\views\\candidates\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|f:\\isdb\\all project\\core_masterdetails_codefirst_storeproc_aggrecation_ajax_java\\exam_1285453\\ex_1285453\\ex_1285453.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DA204235-9193-49AC-A67B-2E34C5FA928F}|ex_1285453\\ex_1285453.csproj|solutionrelative:ex_1285453\\ex_1285453.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Skills\\Index.cshtml",
+              "RelativeDocumentMoniker": "ex_1285453\\Views\\Skills\\Index.cshtml",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Skills\\Index.cshtml",
+              "RelativeToolTip": "ex_1285453\\Views\\Skills\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T10:51:25.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Skills\\Create.cshtml",
+              "RelativeDocumentMoniker": "ex_1285453\\Views\\Skills\\Create.cshtml",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Skills\\Create.cshtml",
+              "RelativeToolTip": "ex_1285453\\Views\\Skills\\Create.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T18:03:51.119Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\appsettings.json",
+              "RelativeDocumentMoniker": "ex_1285453\\appsettings.json",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\appsettings.json",
+              "RelativeToolTip": "ex_1285453\\appsettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-03T10:37:32.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250503172853_ScriptA.cs",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Migrations\\20250503172853_ScriptA.cs",
+              "RelativeDocumentMoniker": "ex_1285453\\Migrations\\20250503172853_ScriptA.cs",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Migrations\\20250503172853_ScriptA.cs",
+              "RelativeToolTip": "ex_1285453\\Migrations\\20250503172853_ScriptA.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAgwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:31:22.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DbModels.cs",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Models\\DbModels.cs",
+              "RelativeDocumentMoniker": "ex_1285453\\Models\\DbModels.cs",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Models\\DbModels.cs",
+              "RelativeToolTip": "ex_1285453\\Models\\DbModels.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAxwDcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:36:25.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Candidates\\Create.cshtml",
+              "RelativeDocumentMoniker": "ex_1285453\\Views\\Candidates\\Create.cshtml",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Candidates\\Create.cshtml",
+              "RelativeToolTip": "ex_1285453\\Views\\Candidates\\Create.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAAAE4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T11:44:15.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SkillsController.cs",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Controllers\\SkillsController.cs",
+              "RelativeDocumentMoniker": "ex_1285453\\Controllers\\SkillsController.cs",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Controllers\\SkillsController.cs",
+              "RelativeToolTip": "ex_1285453\\Controllers\\SkillsController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAwwDkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:50:50.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeVM.cs",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Models\\ViewModels\\EmployeeVM.cs",
+              "RelativeDocumentMoniker": "ex_1285453\\Models\\ViewModels\\EmployeeVM.cs",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Models\\ViewModels\\EmployeeVM.cs",
+              "RelativeToolTip": "ex_1285453\\Models\\ViewModels\\EmployeeVM.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:37:31.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CandidatesController.cs",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Controllers\\CandidatesController.cs",
+              "RelativeDocumentMoniker": "ex_1285453\\Controllers\\CandidatesController.cs",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Controllers\\CandidatesController.cs",
+              "RelativeToolTip": "ex_1285453\\Controllers\\CandidatesController.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAmwB8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T11:19:09.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CandidateDbContextModelSnapshot.cs",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Migrations\\CandidateDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "ex_1285453\\Migrations\\CandidateDbContextModelSnapshot.cs",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Migrations\\CandidateDbContextModelSnapshot.cs",
+              "RelativeToolTip": "ex_1285453\\Migrations\\CandidateDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAHkAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T10:31:50.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Aggregation.cshtml",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Candidates\\Aggregation.cshtml",
+              "RelativeDocumentMoniker": "ex_1285453\\Views\\Candidates\\Aggregation.cshtml",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Candidates\\Aggregation.cshtml",
+              "RelativeToolTip": "ex_1285453\\Views\\Candidates\\Aggregation.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T11:49:15.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_AddNewSkills.cshtml",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Candidates\\_AddNewSkills.cshtml",
+              "RelativeDocumentMoniker": "ex_1285453\\Views\\Candidates\\_AddNewSkills.cshtml",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Candidates\\_AddNewSkills.cshtml",
+              "RelativeToolTip": "ex_1285453\\Views\\Candidates\\_AddNewSkills.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T11:50:36.04Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Skills\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ex_1285453\\Views\\Skills\\Delete.cshtml",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Skills\\Delete.cshtml",
+              "RelativeToolTip": "ex_1285453\\Views\\Skills\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T18:03:55.874Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Skills\\Details.cshtml",
+              "RelativeDocumentMoniker": "ex_1285453\\Views\\Skills\\Details.cshtml",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Skills\\Details.cshtml",
+              "RelativeToolTip": "ex_1285453\\Views\\Skills\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T18:04:05.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Skills\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ex_1285453\\Views\\Skills\\Edit.cshtml",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Skills\\Edit.cshtml",
+              "RelativeToolTip": "ex_1285453\\Views\\Skills\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T18:04:07.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Candidates\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ex_1285453\\Views\\Candidates\\Edit.cshtml",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Candidates\\Edit.cshtml",
+              "RelativeToolTip": "ex_1285453\\Views\\Candidates\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACAAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T11:47:38.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Candidates\\Index.cshtml",
+              "RelativeDocumentMoniker": "ex_1285453\\Views\\Candidates\\Index.cshtml",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Candidates\\Index.cshtml",
+              "RelativeToolTip": "ex_1285453\\Views\\Candidates\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAABkAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T11:41:24.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ex_1285453\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ex_1285453\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAEgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-03T11:53:39.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Program.cs",
+              "RelativeDocumentMoniker": "ex_1285453\\Program.cs",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\Program.cs",
+              "RelativeToolTip": "ex_1285453\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-03T10:38:26.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ex_1285453.csproj",
+              "DocumentMoniker": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\ex_1285453.csproj",
+              "RelativeDocumentMoniker": "ex_1285453\\ex_1285453.csproj",
+              "ToolTip": "F:\\IsDB\\All Project\\Core_MasterDetails_CodeFirst_StoreProc_Aggrecation_Ajax_java\\EXAM_1285453\\ex_1285453\\ex_1285453.csproj",
+              "RelativeToolTip": "ex_1285453\\ex_1285453.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-03T10:37:19.161Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
